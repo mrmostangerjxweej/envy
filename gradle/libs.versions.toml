@@ -1,5 +1,5 @@
 [versions]
-canteen = "2.1.2"
+canteen = "3.4.3"
 concentrate = "1.6.6"
 
 [libraries]
